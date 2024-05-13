@@ -6,7 +6,7 @@
 - Exclua Livros: Exclua os livros.
 
 ## Autor:
-[Rebeka Dias](https://github.com/Beckyyy07)
+[Anderson Veloso](https://github.com/AndersonVelos0)
 
 ## Licença
 
